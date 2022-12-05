@@ -1,3 +1,4 @@
+package DZ2;
 public class task2 {
     public static int [] sortArray(int[] arrayA){ 
         if (arrayA == null) { //обрабатываю пустой массив
